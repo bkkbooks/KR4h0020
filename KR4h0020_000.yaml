@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0020/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0020_WYG_000-1a, image: WYG1332/WYG1332-0561a.png}
+body:
+  text: 搜玉小集總集類提要臣等謹案搜玉小集一卷原本不著撰人名氏考鄭樵通志藝文略已載之則其來甚舊當為唐人所輯無疑舊目題凡三十七人詩六十三首此本但三十四人詩六十一首蓋毛晉重刋所釐定所注考證頗詳然胡鵠等三人有録無詩晉併刪其姓名已非缺疑存舊之意又人缺其三而詩僅缺其二不足分配三人必有一人之詩溷于他人者則所訂亦未確也其次第為晉所亂不可復考既不以人叙又不以體分編次參差重出叠見莫能得其體例徒以源出唐人聊存舊本以備參訂焉乾隆四十六年二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:5633aa099bfe61f0cd211d2a3b6a5e21534211b942285e8b6da59ab38d106b13
+metadata:
+  title: 搜玉小集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:31:19.296885'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0020/KR4h0020_000.txt
+hash: sha256:5d811755709ca9be7084d9323a45f9860771c805785b350c2caf00c2407079ab
